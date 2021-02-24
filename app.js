@@ -1,0 +1,1 @@
+import "qrscanner" from "https://github.com/nimiq/qr-scanner/blob/master/qr-scanner.umd.min.js"
